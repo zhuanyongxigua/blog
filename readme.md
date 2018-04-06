@@ -12,6 +12,7 @@
  - [JavaScript原理之栈内存、堆内存和预处理](https://github.com/zhuanyongxigua/blog/issues/3)
  - [ES6模块化之export和import的用法](https://github.com/zhuanyongxigua/blog/issues/2)
  - [三类闭包实例理解闭包为什么会占用内存](https://github.com/zhuanyongxigua/blog/issues/1)
+ - [Socket.io](https://github.com/zhuanyongxigua/blog/issues/9)
 
 
 
