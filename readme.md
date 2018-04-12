@@ -13,10 +13,4 @@
  - [ES6模块化之export和import的用法](https://github.com/zhuanyongxigua/blog/issues/2)
  - [三类闭包实例理解闭包为什么会占用内存](https://github.com/zhuanyongxigua/blog/issues/1)
  - [Socket.io](https://github.com/zhuanyongxigua/blog/issues/9)
-
-
-
-
-
-
-
+ - [函数式编程中的错误处理，强壮代码](https://github.com/zhuanyongxigua/blog/issues/10)
