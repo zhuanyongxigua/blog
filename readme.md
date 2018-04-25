@@ -3,7 +3,10 @@
 
 ## 不定期更新中————
 
+### 2018.5
+
 ### 2018.4
+ - [JavaScript函数式编程之pointfree与声明式编程](https://github.com/zhuanyongxigua/blog/issues/12)
  - [JavaScript函数式编程之管道分支](https://github.com/zhuanyongxigua/blog/issues/11)
  - [JavaScript函数式编程之错误处理，强壮代码](https://github.com/zhuanyongxigua/blog/issues/10)
  - [Socket.io](https://github.com/zhuanyongxigua/blog/issues/9)
