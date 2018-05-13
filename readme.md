@@ -8,7 +8,7 @@
 ### 2018.4
  - [vscode 调试node之npm与nodemon](https://github.com/zhuanyongxigua/blog/issues/13)
  - [JavaScript函数式编程之pointfree与声明式编程](https://github.com/zhuanyongxigua/blog/issues/12)
- - [JavaScript函数式编程之管道分支](https://github.com/zhuanyongxigua/blog/issues/11)
+ - [JavaScript函数式编程之管道分支，消除if/else的一种方式](https://github.com/zhuanyongxigua/blog/issues/11)
  - [JavaScript函数式编程之错误处理，强壮代码](https://github.com/zhuanyongxigua/blog/issues/10)
  - [Socket.io](https://github.com/zhuanyongxigua/blog/issues/9)
  
