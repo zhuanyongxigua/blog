@@ -4,6 +4,7 @@
 ## 不定期更新中————
 
 ### 2018.5
+ - [闲的没事写了两种实现不限参数个数的函数组合函数compose](https://github.com/zhuanyongxigua/blog/issues/15)
  - [两个函数式解决大数相加的方法](https://github.com/zhuanyongxigua/blog/issues/14)
 ### 2018.4
  - [vscode 调试node之npm与nodemon](https://github.com/zhuanyongxigua/blog/issues/13)
