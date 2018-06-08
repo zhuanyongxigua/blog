@@ -4,6 +4,7 @@
 ## 不定期更新中————
 
 ### 2018.5
+ - [JavaScript函数式编程之深入理解纯函数](https://github.com/zhuanyongxigua/blog/issues/16)
  - [JavaScript函数式编程之函数组合函数compose和pipe的实现](https://github.com/zhuanyongxigua/blog/issues/15)
  - [两个函数式解决大数相加的方法](https://github.com/zhuanyongxigua/blog/issues/14)
 ### 2018.4
