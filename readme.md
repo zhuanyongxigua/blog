@@ -4,6 +4,7 @@
 ## 不定期更新中————
 
 ### 2018.6
+- [JavaScript异步编程之事件](https://github.com/zhuanyongxigua/blog/issues/19)
 - [用浏览器测试几种闭包占用内存的情况](https://github.com/zhuanyongxigua/blog/issues/18)
 - [JavaScript函数式编程之副作用](https://github.com/zhuanyongxigua/blog/issues/17)
 - [JavaScript函数式编程之深入理解纯函数](https://github.com/zhuanyongxigua/blog/issues/16)
