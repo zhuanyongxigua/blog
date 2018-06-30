@@ -4,6 +4,7 @@
 ## 不定期更新中————
 
 ### 2018.6
+- [JavaScript异步编程之XHR与fetch](https://github.com/zhuanyongxigua/blog/issues/21)
 - [JavaScript函数式编程之为什么要函数式编程（非严谨技术层面的扯淡）](https://github.com/zhuanyongxigua/blog/issues/20)
 - [JavaScript异步编程之事件](https://github.com/zhuanyongxigua/blog/issues/19)
 - [用浏览器测试几种闭包占用内存的情况](https://github.com/zhuanyongxigua/blog/issues/18)
