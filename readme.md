@@ -3,6 +3,8 @@
 
 ## 不定期更新中————
 
+### 2018.7
+- [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
 ### 2018.6
 - [JavaScript异步编程之XHR与fetch](https://github.com/zhuanyongxigua/blog/issues/21)
 - [JavaScript函数式编程之为什么要函数式编程（非严谨技术层面的扯淡）](https://github.com/zhuanyongxigua/blog/issues/20)
