@@ -3,6 +3,9 @@
 
 ## 不定期更新中————
 
+### 时间线
+---------
+
 ### 2018.7
 - [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
 ### 2018.6
@@ -34,7 +37,8 @@
 - [webpack-dev-server开启服务监测js、HTML、CSS并自动刷新网页的套路详细步骤并附代码](https://github.com/zhuanyongxigua/blog/issues/4)
 - [JavaScript原理之栈内存、堆内存和预处理](https://github.com/zhuanyongxigua/blog/issues/3)
  
- 
+### 系列整理
+---------
 ### JavaScript函数式编程系列
 - [JavaScript函数式编程之为什么要函数式编程（非严谨技术层面的扯淡）](https://github.com/zhuanyongxigua/blog/issues/20)
 - [JavaScript函数式编程之深入理解纯函数](https://github.com/zhuanyongxigua/blog/issues/16)
