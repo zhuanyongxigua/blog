@@ -44,5 +44,11 @@
 - [JavaScript函数式编程之管道分支，消除if/else的一种方式](https://github.com/zhuanyongxigua/blog/issues/11)
 - [JavaScript函数式编程之函数组合函数compose和pipe的实现](https://github.com/zhuanyongxigua/blog/issues/15)
 - [两个函数式解决大数相加的方法](https://github.com/zhuanyongxigua/blog/issues/14)
+
+### JavaScript异步编程系列
+- [JavaScript异步编程之事件](https://github.com/zhuanyongxigua/blog/issues/19)
+- [JavaScript异步编程之XHR与fetch](https://github.com/zhuanyongxigua/blog/issues/21)
+- [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
+
  
 
