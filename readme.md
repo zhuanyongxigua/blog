@@ -7,6 +7,7 @@
 ---------
 
 ### 2018.7
+- [JavaScript异步编程之从Generator到async/await](https://github.com/zhuanyongxigua/blog/issues/23)
 - [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
 ### 2018.6
 - [JavaScript异步编程之XHR与fetch](https://github.com/zhuanyongxigua/blog/issues/21)
@@ -53,6 +54,6 @@
 - [JavaScript异步编程之事件](https://github.com/zhuanyongxigua/blog/issues/19)
 - [JavaScript异步编程之XHR与fetch](https://github.com/zhuanyongxigua/blog/issues/21)
 - [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
-
+- [JavaScript异步编程之从Generator到async/await](https://github.com/zhuanyongxigua/blog/issues/23)
  
 
