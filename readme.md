@@ -6,6 +6,7 @@
 ### 时间线
 ---------
 ### 2018.8
+- [JavaScript异步编程之事件循环](https://github.com/zhuanyongxigua/blog/issues/25)
 - [前端性能优化之加载](https://github.com/zhuanyongxigua/blog/issues/24)
 ### 2018.7
 - [JavaScript异步编程之从Generator到async/await](https://github.com/zhuanyongxigua/blog/issues/23)
