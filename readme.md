@@ -6,6 +6,8 @@
 ### 时间线
 ---------
 ### 2018.8
+- [前端性能优化之渲染之概述](https://github.com/zhuanyongxigua/blog/issues/26)
+### 2018.8
 - [JavaScript异步编程之事件循环](https://github.com/zhuanyongxigua/blog/issues/25)
 - [前端性能优化之加载](https://github.com/zhuanyongxigua/blog/issues/24)
 ### 2018.7
@@ -58,5 +60,9 @@
 - [JavaScript异步编程之Promise到底解决了什么问题？](https://github.com/zhuanyongxigua/blog/issues/22)
 - [JavaScript异步编程之从Generator到async/await](https://github.com/zhuanyongxigua/blog/issues/23)
 - [JavaScript异步编程之事件循环](https://github.com/zhuanyongxigua/blog/issues/25)
+
+### 前端性能优化系列
+- [前端性能优化之加载](https://github.com/zhuanyongxigua/blog/issues/24)
+- [前端性能优化之渲染之概述](https://github.com/zhuanyongxigua/blog/issues/26)
  
 
