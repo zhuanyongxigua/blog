@@ -5,7 +5,7 @@
 
 ### 时间线
 ---------
-### 2018.8
+### 2018.9
 - [前端性能优化之渲染之概述](https://github.com/zhuanyongxigua/blog/issues/26)
 ### 2018.8
 - [JavaScript异步编程之事件循环](https://github.com/zhuanyongxigua/blog/issues/25)
