@@ -5,6 +5,8 @@
 
 ### 时间线
 ---------
+### 2018.10
+- [前端性能优化之渲染之重复渲染](https://github.com/zhuanyongxigua/blog/issues/27)
 ### 2018.9
 - [前端性能优化之渲染之概述](https://github.com/zhuanyongxigua/blog/issues/26)
 ### 2018.8
@@ -64,5 +66,6 @@
 ### 前端性能优化系列
 - [前端性能优化之加载](https://github.com/zhuanyongxigua/blog/issues/24)
 - [前端性能优化之渲染之概述](https://github.com/zhuanyongxigua/blog/issues/26)
+- [前端性能优化之渲染之重复渲染](https://github.com/zhuanyongxigua/blog/issues/27)
  
 
