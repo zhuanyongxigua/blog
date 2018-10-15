@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <style>
+    html,
+    body,
+    ol {
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      height: 24px;
+      padding-left: 2em;
+    }
+    li:nth-child(2n+1) {
+      background: #ddd;
+    }
+  </style>
+</head>
+
+<body>
+  <ol id="list"></ol>
+  <script>
+    var data = [];
+    var limit = 1e5;
+    for (var i = 1; i < limit; i++) data.push(i);
+    var $list = document.getElementById('list');
+    const throttle = (func, limit) => {
+      let lastFunc
+      let lastRan
+      return function() {
+        const context = this
+        const args = arguments
+        if (!lastRan) {
+          func.apply(context, args)
+          lastRan = Date.now()
+        } else {
+          clearTimeout(lastFunc)
+          lastFunc = setTimeout(function() {
+            if ((Date.now() - lastRan) >= limit) {
+              func.apply(context, args)
+              lastRan = Date.now()
+            }
+          }, limit - (Date.now() - lastRan))
+        }
+      }
+    }
+    function update() {
+      item_height = 24;
+      $list.style.height = (data.length * item_height) + 'px';
+      var show_counts = Math.ceil(window.innerHeight / item_height) + 10;
+      var update_list = function() {
+        var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
+        var start = Math.max(Math.floor(scrollTop / item_height) - 3, 0);
+        var show_data = data.slice(start, start + show_counts);
+        var html = '';
+        if (start !== 0) {
+          html += `<li style="height:${start * item_height}px"></li>`;
+        }
+        show_data.forEach(v => {
+          html += `<li>${v}</li>`;
+        });
+        $list.innerHTML = html;
+      };
+      window.onscroll = throttle(update_list, 100);
+      update_list();
+    }
+    update();
+  </script>
+</body>
+
+</html>
