@@ -5,6 +5,8 @@
 
 ### 时间线
 ---------
+### 2019.2
+- [JavaScript数据类型转换总结](https://github.com/zhuanyongxigua/blog/issues/29)
 ### 2018.10
 - [前端性能优化之渲染之奇技淫巧](https://github.com/zhuanyongxigua/blog/issues/28)
 - [前端性能优化之渲染之重复渲染](https://github.com/zhuanyongxigua/blog/issues/27)
