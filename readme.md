@@ -5,6 +5,8 @@
 
 ### 时间线
 ---------
+### 2024.06
+- [为什么需要编码（Code）？](https://github.com/zhuanyongxigua/blog/issues/30)
 ### 2019.2
 - [JavaScript数据类型转换总结](https://github.com/zhuanyongxigua/blog/issues/29)
 ### 2018.10
