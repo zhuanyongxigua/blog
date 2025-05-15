@@ -5,6 +5,8 @@
 
 ### 时间线
 ---------
+### 2025.05
+- [CBC 与可预测 IV 经典漏洞原理](https://github.com/zhuanyongxigua/blog/issues/35)
 ### 2024.07
 - [如何一气呵成细节较多的《K 个一组翻转链表》](https://github.com/zhuanyongxigua/blog/issues/33)
 - [四则运算之中缀转后缀](https://github.com/zhuanyongxigua/blog/issues/34)
