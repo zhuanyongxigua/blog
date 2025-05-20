@@ -6,6 +6,7 @@
 ### 时间线
 ---------
 ### 2025.05
+- [以《1665. 完成所有任务的最少初始能量》为例，提炼从理论上证明算法是否可行的思路](https://github.com/zhuanyongxigua/blog/issues/36)
 - [CBC 与可预测 IV 经典漏洞原理](https://github.com/zhuanyongxigua/blog/issues/35)
 ### 2024.07
 - [如何一气呵成细节较多的《K 个一组翻转链表》](https://github.com/zhuanyongxigua/blog/issues/33)
