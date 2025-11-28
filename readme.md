@@ -7,6 +7,7 @@
 ---------
 ### 2025.11
 - [在 AI 工具普及的时期，前端可以持续做的事情：写文档](https://github.com/zhuanyongxigua/blog/issues/39)
+- [基于大模型的前端E2E测试实践](https://github.com/zhuanyongxigua/blog/issues/40)
 
 ### 2025.05
 - [以《1665. 完成所有任务的最少初始能量》为例，提炼从理论上证明算法是否可行的思路](https://github.com/zhuanyongxigua/blog/issues/36)
